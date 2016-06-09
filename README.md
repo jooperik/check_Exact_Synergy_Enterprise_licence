@@ -1,0 +1,1 @@
+# check_Exact_Synergy_Enterprise_licence
